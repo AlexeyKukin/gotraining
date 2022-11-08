@@ -1,1 +1,4 @@
-
+- name: Golang Pieline
+  # You may pin to the exact commit or the version.
+  # uses: shoukoo/golang-pipeline@e056a6791721d91d11f5247e881bc1c4c6f7f46c
+  uses: shoukoo/golang-pipeline@0.2.0
